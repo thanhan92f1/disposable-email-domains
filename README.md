@@ -7,9 +7,9 @@ Daily-updated list of disposable email domains aggregated from multiple sources.
 ---
 
 Lists:
-* [TXT](https://thanhan92-f1.github.io/disposable-email-domains/domains.txt): `https://stefanpejcic.github.io/disposable-email-domains/domains.txt`
-* [JSON](https://thanhan92-f1.github.io/disposable-email-domains/domains.json): `https://stefanpejcic.github.io/disposable-email-domains/domains.json`
-* [CSV](https://thanhan92-f1.github.io/disposable-email-domains/domains.csv): `https://stefanpejcic.github.io/disposable-email-domains/domains.csv`
+* [TXT](https://thanhan92-f1.github.io/disposable-email-domains/domains.txt): `https://thanhan92-f1.github.io/disposable-email-domains/domains.txt`
+* [JSON](https://thanhan92-f1.github.io/disposable-email-domains/domains.json): `https://thanhan92-f1.github.io/disposable-email-domains/domains.json`
+* [CSV](https://thanhan92-f1.github.io/disposable-email-domains/domains.csv): `https://thanhan92-f1.github.io/disposable-email-domains/domains.csv`
 
 ---
 
